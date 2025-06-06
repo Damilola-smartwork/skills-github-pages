@@ -1,4 +1,4 @@
 
 
 
-<h3><b>Welcome to my blog!</b></h3>
+<h3>Welcome to my blog!</h3>
